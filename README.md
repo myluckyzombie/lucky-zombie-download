@@ -1,12 +1,12 @@
 # Lucky Zombie — Download Resmi
 
-Versi terbaru: **v1.4.3**
+Versi terbaru: **v1.4.4**
 
 [⬇️ Download Lucky Zombie APK terbaru](https://github.com/myluckyzombie/lucky-zombie-download/releases/latest/download/app-release.apk)
 
 [Lihat catatan rilis terbaru](https://github.com/myluckyzombie/lucky-zombie-download/releases/latest)
 
-## Pembaruan v1.4.3
+## Pembaruan v1.4.4
 
 - Misi harian tetap menggunakan 10 iklan AdMob.
 - Booster misi ke-10 diklaim melalui lonceng dan masuk ke **Aset → Item**.
